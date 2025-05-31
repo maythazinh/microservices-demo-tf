@@ -1,9 +1,13 @@
 # microservices-demo-tf
 
 Harbor Registry Integration: Secure image pulling from private registry
+
 Service Accounts: Each microservice has its own identity
+
 Role-Based Access Control: Granular permissions for each service
+
 Image Pull Secrets: Automated credential management
+
 Least Privilege: Services only get permissions they need
 
 
