@@ -26,4 +26,7 @@ Each service deployed independently
 Automatically inherits shared security settings
 Can be scaled and managed separately
 
+using harbor container registry
+https://bookinfo.may1.click/harbor/projects/2/repositories
+
 ![image](https://github.com/user-attachments/assets/b769a8fe-886c-460b-a937-27d73b885e94)
